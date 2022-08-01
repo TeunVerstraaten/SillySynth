@@ -1,0 +1,4 @@
+.idea
+/cmake-build-debug
+/third_party/fftw-3.3.10/CMakeFiles
+/third_party/portaudio/CMakeFiles

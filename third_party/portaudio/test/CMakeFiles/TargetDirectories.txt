@@ -1,0 +1,3 @@
+/home/pc/Documents/Code/C++/PortAudio/portaudio/test/CMakeFiles/patest_longsine.dir
+/home/pc/Documents/Code/C++/PortAudio/portaudio/test/CMakeFiles/edit_cache.dir
+/home/pc/Documents/Code/C++/PortAudio/portaudio/test/CMakeFiles/rebuild_cache.dir
