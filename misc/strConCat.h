@@ -8,8 +8,8 @@
 #include <sstream>
 #include <string>
 
-template <typename... Ts>
-std::string strConCat(Ts const&... ts) {
+template<typename... Ts>
+std::string strConCat(Ts const &... ts) {
     std::stringstream s;
     (s << ... << ts);
     return s.str();
